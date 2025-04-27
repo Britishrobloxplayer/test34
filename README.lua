@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Britishrobloxplayer/test34/refs/heads/main/README.md
+https://raw.githubusercontent.com/Britishrobloxplayer/test34/refs/heads/main/README.lua
